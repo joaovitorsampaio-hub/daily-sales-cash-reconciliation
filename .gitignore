@@ -1,0 +1,5 @@
+entrada_diaria/
+processados/
+*.csv
+__pycache__/
+.env

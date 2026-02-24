@@ -1,6 +1,6 @@
 # Processamento Diário de Vendas – Conferência de Caixa
 
-Read this project description in English: [README_EN.md](README_EN.md)
+Read this project description in English: [README_EN.MD](README_EN.MD)
 
 Script em Python desenvolvido para apoiar a **conferência diária de caixa dos restaurantes do Grupo NORI**, automatizando a análise de relatórios de vendas exportados do sistema da Cielo. O projeto resolve uma limitação operacional do sistema, que não permite somar e classificar os valores de forma clara por **forma de pagamento** e **canal de venda**.
 
